@@ -9,3 +9,7 @@ Tweet.
 Create a spawner.  
 Try to make enemies chase the player.  
 Tweet.  
+
+### Day 2: 31/05/2022
+Still trying to make enemies chase the player.  
+Tweet.  
