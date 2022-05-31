@@ -6,10 +6,12 @@ Prepare new repository.
 Tweet.  
 
 ### Day 1: 30/05/2022
+2 pomodoros + review.  
 Create a spawner.  
 Try to make enemies chase the player.  
 Tweet.  
 
 ### Day 2: 31/05/2022
+2 pomodoros + review.  
 Still trying to make enemies chase the player.  
 Tweet.  
