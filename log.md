@@ -21,3 +21,9 @@ Tweet.
 I improved the chasing but it needs rotations.  
 Enemies spawn randomly from the edges of the screen.  
 Tweet.  
+
+### Day 4: 02/06/2022
+2 pomodoros + review.  
+Enemies rotate towards the player.  
+Debug lines are drawn to see their trajectory.  
+Tweet.  
