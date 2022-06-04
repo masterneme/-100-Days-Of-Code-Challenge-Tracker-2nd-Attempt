@@ -27,3 +27,8 @@ Tweet.
 Enemies rotate towards the player.  
 Debug lines are drawn to see their trajectory.  
 Tweet.  
+
+### Day 5: 03/06/2022
+2 pomodoros + review.  
+Enemies change their sprites to show different angles depending on rotation.  
+Tweet.  
