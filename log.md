@@ -32,3 +32,8 @@ Tweet.
 2 pomodoros + review.  
 Enemies change their sprites to show different angles depending on rotation.  
 Tweet.  
+
+### Day 6: 04/06/2022
+2 pomodoros + review.  
+Initial effort to implement menus.  
+Tweet.  
