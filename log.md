@@ -37,3 +37,8 @@ Tweet.
 2 pomodoros + review.  
 Initial effort to implement menus.  
 Tweet.  
+
+### Day 7: 05/06/2022
+2 pomodoros + review.  
+Pause and Game Over menus.  
+Tweet.  
