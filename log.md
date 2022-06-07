@@ -42,3 +42,8 @@ Tweet.
 2 pomodoros + review.  
 Pause and Game Over menus.  
 Tweet.  
+
+### Day 8: 06/06/2022
+2 pomodoros + review.  
+Some experiments with collections.  
+Tweet.  
