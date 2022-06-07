@@ -47,3 +47,9 @@ Tweet.
 2 pomodoros + review.  
 Some experiments with collections.  
 Tweet.  
+
+### Day 9: 07/06/2022
+2 pomodoros + review.  
+I added static collisions so the player stays on the map.  
+The player can now die when it's hit by an enemy.  
+Tweet.  
