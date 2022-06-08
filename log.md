@@ -54,7 +54,7 @@ I added static collisions so the player stays on the map.
 The player can now die when it's hit by an enemy.  
 Tweet.  
 
-### Day 10: 07/06/2022
+### Day 10: 08/06/2022
 2 pomodoros + review.  
 Some experiments with sprites to test a decal system.  
 Tweet.  
