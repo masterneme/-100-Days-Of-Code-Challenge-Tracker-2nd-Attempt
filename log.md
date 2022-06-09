@@ -58,3 +58,8 @@ Tweet.
 2 pomodoros + review.  
 Some experiments with sprites to test a decal system.  
 Tweet.  
+
+### Day 11: 09/06/2022
+3 pomodoros + review.  
+Today I did a little bit of HTML.  
+Tweet.  
