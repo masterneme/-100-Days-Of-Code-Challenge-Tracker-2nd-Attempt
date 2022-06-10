@@ -63,3 +63,8 @@ Tweet.
 3 pomodoros + review.  
 Today I did a little bit of HTML.  
 Tweet.  
+
+### Day 12: 10/06/2022
+2 pomodoros + review.  
+Basic HTML exercises finished.  
+Tweet.  
