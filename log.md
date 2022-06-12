@@ -73,3 +73,9 @@ Tweet.
 2 pomodoros + review.  
 Intermediate HTML exercises.  
 Tweet.  
+
+### Day 14: 12/06/2022
+2 pomodoros + review.  
+Intermediate HTML.  
+Introduction to CSS.  
+Tweet.  
