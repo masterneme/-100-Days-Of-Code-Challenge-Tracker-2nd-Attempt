@@ -79,3 +79,8 @@ Tweet.
 Intermediate HTML.  
 Introduction to CSS.  
 Tweet.  
+
+### Day 15: 13/06/2022
+2 pomodoros + review.  
+Introduction to CSS.  
+Tweet.  
