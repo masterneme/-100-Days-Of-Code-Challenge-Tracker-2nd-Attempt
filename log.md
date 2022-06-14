@@ -84,3 +84,8 @@ Tweet.
 2 pomodoros + review.  
 Introduction to CSS.  
 Tweet.  
+
+### Day 16: 14/06/2022
+2 pomodoros + review.  
+Intermediate CSS.  
+Tweet.  
