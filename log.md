@@ -89,3 +89,9 @@ Tweet.
 2 pomodoros + review.  
 Intermediate CSS.  
 Tweet.  
+
+### Day 17: 15/06/2022
+2 pomodoros + review.  
+Intermediate CSS.  
+Bootstrap.  
+Tweet.  
