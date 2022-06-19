@@ -105,3 +105,8 @@ Tweet.
 2 pomodoros + review.  
 Even more Bootstrap.  
 Tweet.  
+
+### Day 20: 18/06/2022
+3 pomodoros + review.  
+Bootstrap 4.  
+Tweet.  
