@@ -121,3 +121,8 @@ Tweet.
 Bootstrap 4.  
 Introduction to JavaScript.  
 Tweet.  
+
+### Day 23: 21/06/2022
+2 pomodoros + review.  
+Introduction to JavaScript.  
+Tweet.  
