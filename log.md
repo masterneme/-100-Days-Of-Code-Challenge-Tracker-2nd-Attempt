@@ -126,3 +126,8 @@ Tweet.
 2 pomodoros + review.  
 Introduction to JavaScript.  
 Tweet.  
+
+### Day 24: 22/06/2022
+2 pomodoros + review.  
+JavaScript control flow.  
+Tweet.  
