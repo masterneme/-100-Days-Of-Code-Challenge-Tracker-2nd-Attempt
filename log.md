@@ -131,3 +131,9 @@ Tweet.
 2 pomodoros + review.  
 JavaScript control flow.  
 Tweet.  
+
+### Day 25: 23/06/2022
+2 pomodoros + review.  
+JavaScript control flow.  
+JavaScript functions.  
+Tweet.  
