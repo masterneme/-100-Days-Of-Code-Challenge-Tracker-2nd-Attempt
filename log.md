@@ -137,3 +137,9 @@ Tweet.
 JavaScript control flow.  
 JavaScript functions.  
 Tweet.  
+
+### Day 26: 24/06/2022
+2 pomodoros + review.  
+JavaScript functions.  
+JavaScript arrays.  
+Tweet.  
