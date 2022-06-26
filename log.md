@@ -143,3 +143,8 @@ Tweet.
 JavaScript functions.  
 JavaScript arrays.  
 Tweet.  
+
+### Day 27: 25/06/2022
+2 pomodoros + review.  
+JavaScript arrays.  
+Tweet.  
