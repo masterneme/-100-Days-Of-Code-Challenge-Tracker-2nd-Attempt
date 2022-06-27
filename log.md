@@ -148,3 +148,9 @@ Tweet.
 2 pomodoros + review.  
 JavaScript arrays.  
 Tweet.  
+
+### Day 28: 26/06/2022
+2 pomodoros + review.  
+JavaScript arrays.  
+JavaScript objects.  
+Tweet.  
