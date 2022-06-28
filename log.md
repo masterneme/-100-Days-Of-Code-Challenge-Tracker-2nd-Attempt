@@ -159,3 +159,8 @@ Tweet.
 2 pomodoros + review.  
 JavaScript objects.  
 Tweet.  
+
+### Day 30: 28/06/2022
+2 pomodoros + review.  
+DOM manipulation.  
+Tweet.  
