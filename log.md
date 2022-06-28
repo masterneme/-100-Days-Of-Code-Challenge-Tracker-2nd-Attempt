@@ -154,3 +154,8 @@ Tweet.
 JavaScript arrays.  
 JavaScript objects.  
 Tweet.  
+
+### Day 29: 27/06/2022
+2 pomodoros + review.  
+JavaScript objects.  
+Tweet.  
