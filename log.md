@@ -164,3 +164,9 @@ Tweet.
 2 pomodoros + review.  
 DOM manipulation.  
 Tweet.  
+
+### Day 31: 29/06/2022
+2 pomodoros + review.  
+DOM manipulation.  
+Advanced DOM manipulation.  
+Tweet.  
