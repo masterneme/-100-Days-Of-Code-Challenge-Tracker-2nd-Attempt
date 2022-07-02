@@ -175,3 +175,9 @@ Tweet.
 2 pomodoros + review.  
 Advanced DOM manipulation.  
 Tweet.  
+
+### Day 33: 01/07/2022
+2 pomodoros + review.  
+Advanced DOM manipulation.  
+Color Game Project.  
+Tweet.  
