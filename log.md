@@ -181,3 +181,8 @@ Tweet.
 Advanced DOM manipulation.  
 Color Game Project.  
 Tweet.  
+
+### Day 34: 02/07/2022
+2 pomodoros + review.  
+Color Game Project.  
+Tweet.  
