@@ -186,3 +186,9 @@ Tweet.
 2 pomodoros + review.  
 Color Game Project.  
 Tweet.  
+
+### Day 35: 04/07/2022
+2 pomodoros + review.  
+Color Game Project.  
+Intro to jQuery.  
+Tweet.  
