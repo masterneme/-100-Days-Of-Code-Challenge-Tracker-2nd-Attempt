@@ -192,3 +192,8 @@ Tweet.
 Color Game Project.  
 Intro to jQuery.  
 Tweet.  
+
+### Day 36: 05/07/2022
+2 pomodoros + review.  
+Intro to jQuery.  
+Tweet.  
