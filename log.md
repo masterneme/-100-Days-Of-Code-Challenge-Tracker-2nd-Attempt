@@ -197,3 +197,8 @@ Tweet.
 2 pomodoros + review.  
 Intro to jQuery.  
 Tweet.  
+
+### Day 37: 06/07/2022
+2 pomodoros + review.  
+Advanced jQuery.  
+Tweet.  
