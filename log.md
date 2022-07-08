@@ -202,3 +202,8 @@ Tweet.
 2 pomodoros + review.  
 Advanced jQuery.  
 Tweet.  
+
+### Day 38: 07/07/2022
+2 pomodoros + review.  
+Advanced jQuery.  
+Tweet.  
