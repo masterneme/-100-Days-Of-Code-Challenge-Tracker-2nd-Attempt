@@ -212,3 +212,8 @@ Tweet.
 2 pomodoros + review.  
 Todo List Project.  
 Tweet.  
+
+### Day 40: 10/07/2022
+2 pomodoros + review.  
+Todo List Project.  
+Tweet.  
