@@ -217,3 +217,9 @@ Tweet.
 2 pomodoros + review.  
 Todo List Project.  
 Tweet.  
+
+### Day 41: 12/07/2022
+2 pomodoros + review.  
+Todo List Project.  
+Patatap Clone.  
+Tweet.  
