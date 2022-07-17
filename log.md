@@ -228,3 +228,9 @@ Tweet.
 2 pomodoros + review.  
 Patatap Clone.  
 Tweet.  
+
+### Day 43: 16/07/2022
+2 pomodoros + review.  
+Patatap Clone.  
+Backend basics.  
+Tweet.  
