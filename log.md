@@ -234,3 +234,8 @@ Tweet.
 Patatap Clone.  
 Backend basics.  
 Tweet.  
+
+### Day 44: 18/07/2022
+2 pomodoros + review.  
+Backend basics.  
+Tweet.  
