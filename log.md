@@ -239,3 +239,8 @@ Tweet.
 2 pomodoros + review.  
 Backend basics.  
 Tweet.  
+
+### Day 45: 20/07/2022
+2 pomodoros + review.  
+Command line.  
+Tweet.  
