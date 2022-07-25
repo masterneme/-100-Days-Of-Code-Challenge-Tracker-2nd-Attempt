@@ -249,3 +249,8 @@ Tweet.
 2 pomodoros + review.  
 Node JS.  
 Tweet.  
+
+### Day 47: 24/07/2022
+2 pomodoros + review.  
+Node JS.  
+Tweet.  
