@@ -275,3 +275,8 @@ Tweet.
 2 pomodoros + review.  
 Intermediate Express.  
 Tweet.  
+
+### Day 52: 03/08/2022
+2 pomodoros + review.  
+YelpCamp basics.  
+Tweet.  
