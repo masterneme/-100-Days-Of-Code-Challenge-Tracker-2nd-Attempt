@@ -280,3 +280,9 @@ Tweet.
 2 pomodoros + review.  
 YelpCamp basics.  
 Tweet.  
+
+### Day 53: 05/08/2022
+2 pomodoros + review.  
+YelpCamp basics.  
+Databases.  
+Tweet.  
