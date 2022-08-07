@@ -286,3 +286,8 @@ Tweet.
 YelpCamp basics.  
 Databases.  
 Tweet.  
+
+### Day 54: 07/08/2022
+2 pomodoros + review.  
+Databases.  
+Tweet.  
