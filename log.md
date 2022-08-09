@@ -291,3 +291,8 @@ Tweet.
 2 pomodoros + review.  
 Databases.  
 Tweet.  
+
+### Day 55: 08/08/2022
+2 pomodoros + review.  
+Emoji rating.  
+Tweet.  
