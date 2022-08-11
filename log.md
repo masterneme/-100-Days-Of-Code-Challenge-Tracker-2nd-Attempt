@@ -303,3 +303,9 @@ Emoji rating.
 Profile statistics.  
 Upload to GitHub.  
 Tweet.  
+
+### Day 57: 10/08/2022
+2 pomodoros + review.  
+Rotating image gallery.  
+New Year countdown.  
+Tweet.  
