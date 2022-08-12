@@ -315,3 +315,10 @@ Tweet.
 New Year countdown.  
 Random password generator.  
 Tweet.  
+
+### Day 59: 12/08/2022
+2 pomodoros + review.  
+Random password generator.  
+Animated search bar.  
+Upload to GitHub.  
+Tweet.  
