@@ -309,3 +309,9 @@ Tweet.
 Rotating image gallery.  
 New Year countdown.  
 Tweet.  
+
+### Day 58: 11/08/2022
+2 pomodoros + review.  
+New Year countdown.  
+Random password generator.  
+Tweet.  
