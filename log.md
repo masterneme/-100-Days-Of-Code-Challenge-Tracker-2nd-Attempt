@@ -322,3 +322,9 @@ Random password generator.
 Animated search bar.  
 Upload to GitHub.  
 Tweet.  
+
+### Day 60: 13/08/2022
+2 pomodoros + review.  
+Animated search bar.  
+Social media selector menu.  
+Tweet.  
