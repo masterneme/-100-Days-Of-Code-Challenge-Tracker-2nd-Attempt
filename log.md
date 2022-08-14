@@ -328,3 +328,11 @@ Tweet.
 Animated search bar.  
 Social media selector menu.  
 Tweet.  
+
+### Day 61: 14/08/2022
+2 pomodoros + review.  
+Social media selector menu.  
+Double landing page.  
+To do list.  
+Upload to GitHub.  
+Tweet.  
