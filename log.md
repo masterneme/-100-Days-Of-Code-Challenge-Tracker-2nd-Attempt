@@ -336,3 +336,11 @@ Double landing page.
 To do list.  
 Upload to GitHub.  
 Tweet.  
+
+### Day 62: 15/08/2022
+5 pomodoros + review.  
+To do list.  
+Step progress bar.  
+Digital clock.  
+Upload to GitHub.  
+Tweet.  
