@@ -344,3 +344,16 @@ Step progress bar.
 Digital clock.  
 Upload to GitHub.  
 Tweet.  
+
+### Day 63: 16/08/2022
+2 pomodoros + review.  
+Digital clock.  
+Multiplication app.  
+Tweet.  
+
+### Day 64: 17/08/2022
+2 pomodoros + review.  
+Multiplication app.  
+Button ripple effect.  
+Real-time character counter.  
+Tweet.  
