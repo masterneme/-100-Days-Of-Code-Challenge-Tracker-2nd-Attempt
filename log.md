@@ -357,3 +357,10 @@ Multiplication app.
 Button ripple effect.  
 Real-time character counter.  
 Tweet.  
+
+### Day 65: 18/08/2022
+2 pomodoros + review.  
+Real-time character counter.  
+Sticky navbar.  
+Upload to GitHub.  
+Tweet.  
