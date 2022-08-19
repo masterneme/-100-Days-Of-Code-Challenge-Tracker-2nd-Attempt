@@ -364,3 +364,10 @@ Real-time character counter.
 Sticky navbar.  
 Upload to GitHub.  
 Tweet.  
+
+### Day 66: 19/08/2022
+2 pomodoros + review.  
+Sticky navbar.  
+Random color generator.  
+Heart trail animation.  
+Tweet.  
