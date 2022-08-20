@@ -371,3 +371,10 @@ Sticky navbar.
 Random color generator.  
 Heart trail animation.  
 Tweet.  
+
+### Day 67: 20/08/2022
+3 pomodoros + review.  
+Heart trail animation.  
+Video trailer popup.  
+Blurred background popup.  
+Tweet.  
