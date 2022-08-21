@@ -378,3 +378,10 @@ Heart trail animation.
 Video trailer popup.  
 Blurred background popup.  
 Tweet.  
+
+### Day 68: 21/08/2022
+2 pomodoros + review.  
+Blurred background popup.  
+Background image scroll effect.  
+Upload to GitHub.  
+Tweet.  
