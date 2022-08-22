@@ -385,3 +385,10 @@ Blurred background popup.
 Background image scroll effect.  
 Upload to GitHub.  
 Tweet.  
+
+### Day 69: 22/08/2022
+3 pomodoros + review.  
+Drum kits.  
+Random photos.  
+Image slider.  
+Tweet.  
