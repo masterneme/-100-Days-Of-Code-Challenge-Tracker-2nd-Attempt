@@ -392,3 +392,10 @@ Drum kits.
 Random photos.  
 Image slider.  
 Tweet.  
+
+### Day 70: 23/08/2022
+2 pomodoros + review.  
+Image slider.  
+Dark mode toggle.  
+Update the challenge's readme.
+Tweet.  
