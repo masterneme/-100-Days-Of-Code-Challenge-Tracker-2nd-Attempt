@@ -397,5 +397,5 @@ Tweet.
 2 pomodoros + review.  
 Image slider.  
 Dark mode toggle.  
-Update the challenge's readme.
+Update the challenge's readme.  
 Tweet.  
