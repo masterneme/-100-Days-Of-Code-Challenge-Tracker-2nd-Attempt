@@ -4,7 +4,7 @@ Repository created to track my progress on the [100 Days of code challenge](http
 
 Last time I couldn't finish because my Internet connection was shut down and was unable to access the material. This time I have gathered a lot of content so, even if that happens again, I can continue with the challenge offline.  
 
-I'm going to focus on practicing Lua & [Defold Engine](https://defold.com/). Alternatively, I can learn & practice Javascript for web development.  
+I started the challenge to practice Lua & [Defold Engine](https://defold.com/), but I switched to JavaScript for web development.  
 
 [Log - Click to see my progress](https://github.com/masterneme/100-Days-Of-Code-Challenge-Tracker-2nd-Attempt/blob/main/log.md)
 
