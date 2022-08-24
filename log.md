@@ -399,3 +399,12 @@ Image slider.
 Dark mode toggle.  
 Update the challenge's readme.  
 Tweet.  
+
+### Day 71: 24/08/2022
+4 pomodoros + review.  
+Dark mode toggle.  
+Auto text effect animation.  
+Tabs section.  
+Upload to GitHub.  
+Update the readme.  
+Tweet.  
