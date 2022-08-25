@@ -408,3 +408,8 @@ Tabs section.
 Upload to GitHub.  
 Update the readme.  
 Tweet.  
+
+### Day 72: 25/08/2022
+4 pomodoros + review.  
+Project 1: Sprite animations.  
+Tweet.  
