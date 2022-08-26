@@ -413,3 +413,8 @@ Tweet.
 4 pomodoros + review.  
 Project 1: Sprite animations.  
 Tweet.  
+
+### Day 73: 26/08/2022
+3 pomodoros + review.  
+Project 0: Initial setup with basic input handling.  
+Tweet.  
