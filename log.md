@@ -418,3 +418,8 @@ Tweet.
 3 pomodoros + review.  
 Project 0: Initial setup with basic input handling.  
 Tweet.  
+
+### Day 74: 27/08/2022
+2 pomodoros + review.  
+Project 2: Parallax backgrounds.  
+Tweet.  
