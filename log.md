@@ -423,3 +423,8 @@ Tweet.
 2 pomodoros + review.  
 Project 2: Parallax backgrounds.  
 Tweet.  
+
+### Day 75: 28/08/2022
+3 pomodoros + review.  
+Project 3: NPC movement animations.  
+Tweet.  
