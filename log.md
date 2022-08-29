@@ -428,3 +428,9 @@ Tweet.
 3 pomodoros + review.  
 Project 3: NPC movement animations.  
 Tweet.  
+
+### Day 76: 29/08/2022
+2 pomodoros + review.  
+Project 4: Collision animations.  
+Generate explosion sound.  
+Tweet.  
