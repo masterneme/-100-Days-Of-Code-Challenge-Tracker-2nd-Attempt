@@ -434,3 +434,8 @@ Tweet.
 Project 4: Collision animations.  
 Generate explosion sound.  
 Tweet.  
+
+### Day 77: 30/08/2022
+5 pomodoros + review.  
+Project 5: Point & shoot game.  
+Tweet.  
