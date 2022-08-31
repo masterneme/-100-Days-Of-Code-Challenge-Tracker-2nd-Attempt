@@ -439,3 +439,9 @@ Tweet.
 5 pomodoros + review.  
 Project 5: Point & shoot game.  
 Tweet.  
+
+### Day 78: 31/08/2022
+4 pomodoros + review.  
+Project 6: Enemy variety.  
+Remove old GitHub repositories.  
+Tweet.  
