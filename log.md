@@ -445,3 +445,8 @@ Tweet.
 Project 6: Enemy variety.  
 Remove old GitHub repositories.  
 Tweet.  
+
+### Day 79: 01/09/2022
+7 pomodoros + review.  
+Project 7: Side-scroller game with mobile support.  
+Tweet.  
