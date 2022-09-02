@@ -450,3 +450,8 @@ Tweet.
 7 pomodoros + review.  
 Project 7: Side-scroller game with mobile support.  
 Tweet.  
+
+### Day 80: 02/09/2022
+5 pomodoros + review.  
+Project 8: State management.  
+Tweet.  
