@@ -455,3 +455,8 @@ Tweet.
 5 pomodoros + review.  
 Project 8: State management.  
 Tweet.  
+
+### Day 81: 03/09/2022
+16 pomodoros + review.  
+Project 9: Endless runner game.  
+Tweet.  
