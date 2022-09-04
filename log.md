@@ -460,3 +460,10 @@ Tweet.
 16 pomodoros + review.  
 Project 9: Endless runner game.  
 Tweet.  
+
+### Day 82: 04/09/2022
+4 pomodoros + review.  
+Revisit Projects 0 & 9.  
+Create respository.  
+Upload to GitHub.  
+Tweet.  
