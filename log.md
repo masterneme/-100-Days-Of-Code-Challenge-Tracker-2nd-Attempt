@@ -467,3 +467,8 @@ Revisit Projects 0 & 9.
 Create respository.  
 Upload to GitHub.  
 Tweet.  
+
+### Day 83: 05/09/2022
+3 pomodoros + review.  
+YelpCamp data persistence.  
+Tweet.  
