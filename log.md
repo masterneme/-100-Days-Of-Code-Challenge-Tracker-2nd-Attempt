@@ -472,3 +472,8 @@ Tweet.
 3 pomodoros + review.  
 YelpCamp data persistence.  
 Tweet.  
+
+### Day 84: 06/09/2022
+4 pomodoros + review.  
+RESTful Routing.  
+Tweet.  
