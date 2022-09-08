@@ -482,3 +482,8 @@ Tweet.
 4 pomodoros + review.  
 RESTful Routing 2.  
 Tweet.  
+
+### Day 86: 08/09/2022
+3 pomodoros + review.  
+Data associations.  
+Tweet.  
