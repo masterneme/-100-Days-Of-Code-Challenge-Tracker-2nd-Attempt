@@ -487,3 +487,8 @@ Tweet.
 3 pomodoros + review.  
 Data associations.  
 Tweet.  
+
+### Day 87: 09/09/2022
+5 pomodoros + review.  
+YelpCamp comments.  
+Tweet.  
