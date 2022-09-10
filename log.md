@@ -492,3 +492,8 @@ Tweet.
 5 pomodoros + review.  
 YelpCamp comments.  
 Tweet.  
+
+### Day 88: 10/09/2022
+3 pomodoros + review.  
+Authentication.  
+Tweet.  
