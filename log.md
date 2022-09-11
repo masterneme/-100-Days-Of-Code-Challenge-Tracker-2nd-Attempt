@@ -497,3 +497,8 @@ Tweet.
 3 pomodoros + review.  
 Authentication.  
 Tweet.  
+
+### Day 89: 11/09/2022
+3 pomodoros + review.  
+YelpCamp adding authentication.  
+Tweet.  
