@@ -475,12 +475,12 @@ Tweet.
 
 ### Day 84: 06/09/2022
 4 pomodoros + review.  
-RESTful Routing.  
+RESTful routing.  
 Tweet.  
 
 ### Day 85: 07/09/2022
 4 pomodoros + review.  
-RESTful Routing 2.  
+RESTful routing 2.  
 Tweet.  
 
 ### Day 86: 08/09/2022
@@ -501,4 +501,9 @@ Tweet.
 ### Day 89: 11/09/2022
 3 pomodoros + review.  
 YelpCamp adding authentication.  
+Tweet.  
+
+### Day 90: 12/09/2022
+4 pomodoros + review.  
+YelpCamp cleaning up.  
 Tweet.  
