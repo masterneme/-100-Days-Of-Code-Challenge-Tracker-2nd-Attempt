@@ -512,3 +512,8 @@ Tweet.
 4 pomodoros + review.  
 YelpCamp update and destroy.  
 Tweet.  
+
+### Day 92: 14/09/2022
+2 pomodoros + review.  
+YelpCamp update and destroy 2.  
+Tweet.  
