@@ -532,3 +532,8 @@ Tweet.
 4 pomodoros + review.  
 Deploying.  
 Tweet.  
+
+### Day 96: 18/09/2022
+2 pomodoros + review.  
+JavaScript game: lessons 1 to 7.  
+Tweet.  
