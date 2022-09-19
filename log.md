@@ -537,3 +537,8 @@ Tweet.
 2 pomodoros + review.  
 JavaScript game: lessons 1 to 7.  
 Tweet.  
+
+### Day 97: 19/09/2022
+2 pomodoros + review.  
+JavaScript game: lessons 8 to 14.  
+Tweet.  
