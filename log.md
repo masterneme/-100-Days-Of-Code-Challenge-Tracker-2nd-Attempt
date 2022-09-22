@@ -555,5 +555,5 @@ Tweet.
 
 ### Day 100: 22/09/2022
 3 pomodoros + review.  
-JavaScript game: lessons 28 to 33(final).  
+JavaScript game: lessons 28 to 33 (final).  
 Tweet.  
